@@ -1,5 +1,5 @@
 import './App.css';
-import myImage from './images/1.png';  // Import the image
+import jarthur_pic1 from './images/1.png';  // Import the image
 
 function App() {
   return (
@@ -7,8 +7,7 @@ function App() {
       <header className="App-header">
         Jarthur
         {/* Use the image */}
-      <img src={myImage} 
-          alt="Description of the image" />
+      <img src={jarthur_pic1}  />
       </header>
     </div>
   );
