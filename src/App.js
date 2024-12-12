@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         Jarthur
         {/* Use the image */}
-      <img src={jarthur_pic1}  />
+      <img src={jarthur_pic1} alt='jarthur_pic1'  />
       </header>
     </div>
   );
